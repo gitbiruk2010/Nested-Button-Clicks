@@ -18,7 +18,7 @@ Installation
 
     If your project is hosted in a Git repository, start by cloning the project to your local machine using the following command in your terminal or command prompt:
 
-    bash
+    Powershell
 
     git clone 
 
@@ -26,7 +26,7 @@ Navigate to the Project Directory
 
 Open your terminal or command prompt and navigate to the project directory:
 
-bash
+powershell
 
 cd path/to/your/project
 
@@ -45,16 +45,12 @@ Starting the App
 
 To start the application, run the following command in your project directory:
 
-sql
-
 npm start
 
 This command starts the development server and opens the application in your default web browser.
 Viewing the App
 
 After starting the app, it should automatically open in your web browser. If it doesn't, you can manually open your web browser and visit:
-
-arduino
 
 http://localhost:3000
 
