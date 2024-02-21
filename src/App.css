@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+div {
+  text-align: center; /* Center-aligns the content */
+  padding: 20px; /* Adds some padding around the content */
+}
+button {
+  background-color: #007bff; /* Sets the background color */
+  color: white; /* Sets the text color */
+  border: none; /* Removes the border */
+  padding: 10px 20px; /* Adds padding inside the buttons */
+  margin: 5px; /* Adds margin around the buttons */
+  border-radius: 5px; /* Rounds the corners of the buttons */
+  cursor: pointer; /* Changes the cursor to a pointer on hover */
+  transition: background-color 0.3s ease; 
+}
+
+button:hover {
+  background-color: #000000; /* Darkens the button on hover */
+}
+body {
+  background-color: lightgray;
+}
