@@ -20,7 +20,7 @@ Installation
 
     Powershell
 
-    git clone 
+    git clone https://github.com/gitbiruk2010/Nested-Button-Clicks
 
 Navigate to the Project Directory
 
